@@ -56,7 +56,7 @@
 ## 🎥 Презентационное видео проекта  
 Для лучшего понимания работы проекта посмотрите презентационное видео на YouTube:
 
-[![Презентация проекта на YouTube]()](https://youtu.be/JGJdvG3c3io)
+[![Презентация проекта на YouTube](https://i9.ytimg.com/vi/JGJdvG3c3io/mqdefault.jpg?sqp=CKzj5sEG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYACsgWKAgwIABABGGUgZShlMA8%3D&rs=AOn4CLDh3BxbabNTUEvyDK6y25SnZzN7cw&retry=2)](https://youtu.be/JGJdvG3c3io)
   
 ## 📂 Структура проекта  
 predictive_maintenance_project/   
