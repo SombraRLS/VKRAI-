@@ -59,21 +59,21 @@
 [![Презентация проекта на YouTube]()]()
   
 ## 📂 Структура проекта  
-predictive_maintenance_project/  
-│  
-├── equipment_guardian.py
+predictive_maintenance_project/   
+│
+├── equipment_guardian.py  
 ├── pages/
-│   ├── __init__.py
-│   ├── data_explorer.py
-│   ├── model_trainer.py
-│   └── deployment.py
-├── utils/
-│   ├── __init__.py
-│   ├── data_processing.py
-│   ├── model_training.py
-│   └── setup_ui.py
-├── requirements.txt # Файл с зависимостями  
-├── data/ # Папка с данными (если данные не загружаются через интерфейс)  
+│   ├── __init__.py  
+│   ├── data_explorer.py  
+│   ├── model_trainer.py  
+│   └── deployment.py  
+├── utils/  
+│   ├── __init__.py  
+│   ├── data_processing.py  
+│   ├── model_training.py  
+│   └── setup_ui.py  
+├── requirements.txt # Файл с зависимостями    
+├── data/ # Папка с данными (если данные не загружаются через интерфейс)    
 │ └── ai4i2020.csv  
 ├── README.md # Описание проекта  
 ---
